@@ -1,5 +1,5 @@
-### Hey, I'm @pleek3
-I enjoy programming Software in Java and I am constantly looking for a new Challenge!
+### Hello, I am @pleek3
+I like programming software in Java and am always looking for a new challenge!
 
 You can reach me on Discord: TeamHardcore#2016.
 
