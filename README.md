@@ -1,9 +1,4 @@
-### Hello, I am @pleek3
 I like programming software in Java and am always looking for a new challenge!
-
-You can reach me on Discord: TeamHardcore#2016.
-
-
   
 
 <!---
@@ -14,7 +9,6 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: 
-  - E-Mail : simons.yannick@icloud.com
   - Discord: TeamHardcore#2016
 
 --->
